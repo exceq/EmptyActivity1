@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">EmptyActivity1</string>
+    <string name="title_activity_main">Enter information about you</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_age">Age</string>
+    <string name="prompt_course">Course</string>
+    <string name="action_submit">Send data</string>
+    <string name="title_second_activity">Received data:</string>
+    <string name="text_info_sample">Hello! My name is $Name. I am $Age years old and studying for $CourseNumber years.</string>
 </resources>
